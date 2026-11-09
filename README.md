@@ -11,9 +11,9 @@
 ### Repositories
   
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) — ⭐ 1,835 · Apache-2.0 — See cost estimates for Terraform right in your editor💰📉
-- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 12,615 · Apache-2.0 — Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left\!
+- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 12,616 · Apache-2.0 — Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left\!
 - [gocrane/crane](https://github.com/gocrane/crane) — ⭐ 2,060 · Apache-2.0 — Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only to help users to manage cloud cost easier but also ensure the quality of applications.
-- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) — ⭐ 1,772 · Apache-2.0 — A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
+- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) — ⭐ 1,773 · Apache-2.0 — A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
 - [project-koku/koku](https://github.com/project-koku/koku) — ⭐ 317 — An open source solution for cost management of cloud and hybrid cloud environments.
 - [aporia-ai/kubesurvival](https://github.com/aporia-ai/kubesurvival) — ⭐ 188 · Apache-2.0 — 💰 Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads
 - [cycloidio/terracost](https://github.com/cycloidio/terracost) — ⭐ 361 · MIT — Cloud cost estimation for Terraform in your CLI
