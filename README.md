@@ -10,30 +10,30 @@
   
 ### Repositories
   
-- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) — ⭐ 1,835 · Apache-2.0 — See cost estimates for Terraform right in your editor💰📉
-- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 12,616 · Apache-2.0 — Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left\!
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) — ⭐ 1,836 · Apache-2.0 — See cost estimates for Terraform right in your editor💰📉
+- [infracost/infracost](https://github.com/infracost/infracost) — ⭐ 12,619 · Apache-2.0 — Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left\!
 - [gocrane/crane](https://github.com/gocrane/crane) — ⭐ 2,060 · Apache-2.0 — Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only to help users to manage cloud cost easier but also ensure the quality of applications.
-- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) — ⭐ 1,773 · Apache-2.0 — A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
-- [project-koku/koku](https://github.com/project-koku/koku) — ⭐ 317 — An open source solution for cost management of cloud and hybrid cloud environments.
+- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) — ⭐ 1,777 · Apache-2.0 — A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
+- [project-koku/koku](https://github.com/project-koku/koku) — ⭐ 319 — An open source solution for cost management of cloud and hybrid cloud environments.
 - [aporia-ai/kubesurvival](https://github.com/aporia-ai/kubesurvival) — ⭐ 188 · Apache-2.0 — 💰 Significantly reduce Kubernetes costs by finding the cheapest machine types that can run your workloads
-- [cycloidio/terracost](https://github.com/cycloidio/terracost) — ⭐ 361 · MIT — Cloud cost estimation for Terraform in your CLI
+- [cycloidio/terracost](https://github.com/cycloidio/terracost) — ⭐ 362 · MIT — Cloud cost estimation for Terraform in your CLI
 - [valencenet/valence-manifests](https://github.com/valencenet/valence-manifests) — ⭐ 77 · BSD-3-Clause — Rightsize and Autoscale Containers Intelligently for Performance and Cost Management in Kubernetes: A SLO Autoscaler
-- [hystax/optscale](https://github.com/hystax/optscale) — ⭐ 2,242 · Apache-2.0 — FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.
+- [hystax/optscale](https://github.com/hystax/optscale) — ⭐ 2,254 · Apache-2.0 — FinOps and cloud cost optimization tool. Supports AWS, Azure, GCP, Alibaba Cloud and Kubernetes.
 - [gocrane/fadvisor](https://github.com/gocrane/fadvisor) — ⭐ 74 · Apache-2.0 — Fadvisor\(FinOps Advisor\) is a collection of exporters which collect cloud resource pricing and billing data guided by FinOps, insight cost allocation for containers and kubernetes resource
-- [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) — ⭐ 222 · Apache-2.0 — 💸 Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and CLI program \(Linux, macOS, Windows\)
-- [opencost/opencost](https://github.com/opencost/opencost) — ⭐ 6,807 · Apache-2.0 — Cost monitoring for Kubernetes workloads and cloud costs
-- [robscott/kube-capacity](https://github.com/robscott/kube-capacity) — ⭐ 2,675 · Apache-2.0 — A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
-- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) — ⭐ 507 · Apache-2.0 — kubectl plugin - giving admins df \(disk free\) like utility for persistent volumes
-- [Green-Software-Foundation/carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk) — ⭐ 599 · MIT — Carbon-Aware SDK
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) — ⭐ 4,779 · MIT — Prometheus-based Kubernetes Resource Recommendations
+- [Cyclenerd/google-cloud-pricing-cost-calculator](https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator) — ⭐ 224 · Apache-2.0 — 💸 Calculate estimated monthly costs of Google Cloud Platform products and resources via YAML files and CLI program \(Linux, macOS, Windows\)
+- [opencost/opencost](https://github.com/opencost/opencost) — ⭐ 6,823 · Apache-2.0 — Cost monitoring for Kubernetes workloads and cloud costs
+- [robscott/kube-capacity](https://github.com/robscott/kube-capacity) — ⭐ 2,677 · Apache-2.0 — A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) — ⭐ 508 · Apache-2.0 — kubectl plugin - giving admins df \(disk free\) like utility for persistent volumes
+- [Green-Software-Foundation/carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk) — ⭐ 600 · MIT — Carbon-Aware SDK
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) — ⭐ 4,790 · MIT — Prometheus-based Kubernetes Resource Recommendations
 - [mlabouardy/komiser](https://github.com/mlabouardy/komiser) — ⭐ 4,152 — Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more\! Your cloud resources will have nowhere to hide\!
-- [vantage-sh/handbook.vantage.sh](https://github.com/vantage-sh/handbook.vantage.sh) — ⭐ 580 — The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud infrastructure and service providers in plain english.
+- [vantage-sh/handbook.vantage.sh](https://github.com/vantage-sh/handbook.vantage.sh) — ⭐ 582 — The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud infrastructure and service providers in plain english.
 - [finopsfoundation/focus\_converters](https://github.com/finopsfoundation/focus_converters) — ⭐ 140 · MIT — Parent repository to hold all common documentation and code samples for all FOCUS Converter projects
 - [GoogleCloudPlatform/autopilot-cost-calculator](https://github.com/GoogleCloudPlatform/autopilot-cost-calculator) — ⭐ 35 · Apache-2.0
 - [fbrubbo/kubectl-snapshot](https://github.com/fbrubbo/kubectl-snapshot) — ⭐ 38 · MIT
-- [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit) — ⭐ 623 · MIT — Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.
-- [Cyclenerd/poweroff-google-cloud-cap-billing](https://github.com/Cyclenerd/poweroff-google-cloud-cap-billing) — ⭐ 91 · Apache-2.0 — 📴 Automating cost control by capping Google Cloud billing
-- [laravel/zeropod](https://github.com/laravel/zeropod) — ⭐ 968 · Apache-2.0 — pod that scales down to zero
+- [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit) — ⭐ 625 · MIT — Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.
+- [Cyclenerd/poweroff-google-cloud-cap-billing](https://github.com/Cyclenerd/poweroff-google-cloud-cap-billing) — ⭐ 92 · Apache-2.0 — 📴 Automating cost control by capping Google Cloud billing
+- [laravel/zeropod](https://github.com/laravel/zeropod) — ⭐ 969 · Apache-2.0 — pod that scales down to zero
   
 ---
 *Generated by [awesomegen](https://github.com/davidcollom/awesomegen).*
